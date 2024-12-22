@@ -11,6 +11,16 @@
 	.yoga-template .banner .banner-content .content-col {
 		padding-left: 30px;
 	}
+	
+
+	.yoga-template .banner-cholet .banner-content .content-col {
+		padding-left: 30px;
+	}
+	
+	.yoga-template .banner-bouil .banner-content .content-col {
+		padding-left: 30px;
+	}
+	
 	/*Service*/
 	.yoga-template .service-section .service-detail > div {
 		margin-bottom: 40px;
@@ -28,10 +38,25 @@
 		padding: 250px 0;
 	}
 	
+	
+	
+	
+	
+	
+	
 	/*Cocktails Details*/
-		.yoga-template .best-class-club .rondoudou-img {
+	.yoga-template .best-class-club .rondoudou-img {
 		padding: 250px 0;
 	}
+	
+	.yoga-template .best-class-club .wip-img {
+		padding: 250px 0;
+	}
+	
+	
+	
+	
+	
 	
 	
 	
