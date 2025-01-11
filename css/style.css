@@ -443,6 +443,20 @@ a {
     background-repeat: no-repeat;
 }
 
+.yoga-template .best-class-club .maracujette-img {
+	background-image: url(../img/maracujette.jpg);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
+.yoga-template .best-class-club .americano-img {
+	background-image: url(../img/americano.jpg);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
 .yoga-template .best-class-club .wip-img {
 	background-image: url(../img/wip.jpg);
     background-size: cover;
