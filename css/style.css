@@ -457,6 +457,55 @@ a {
     background-repeat: no-repeat;
 }
 
+.yoga-template .best-class-club .cointreaufizz-img {
+	background-image: url(../img/cointreaufizz.jpg);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
+.yoga-template .best-class-club .cosmo-img {
+	background-image: url(../img/cosmo.jpg);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
+.yoga-template .best-class-club .cuba-img {
+	background-image: url(../img/cuba.jpg);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
+.yoga-template .best-class-club .ginfizz-img {
+	background-image: url(../img/ginfizz.jpg);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
+.yoga-template .best-class-club .lillett-img {
+	background-image: url(../img/lillett.jpg);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
+.yoga-template .best-class-club .margarita-img {
+	background-image: url(../img/margharita.jpg);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
+.yoga-template .best-class-club .mojito-img {
+	background-image: url(../img/mojito.jpg);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
 .yoga-template .best-class-club .wip-img {
 	background-image: url(../img/wip.jpg);
     background-size: cover;
