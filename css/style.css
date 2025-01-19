@@ -506,6 +506,34 @@ a {
     background-repeat: no-repeat;
 }
 
+.yoga-template .best-class-club .planteur-img {
+	background-image: url(../img/planteur.jpg);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
+.yoga-template .best-class-club .vodkamartini-img {
+	background-image: url(../img/vodkamartini.jpg);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
+.yoga-template .best-class-club .martini-img {
+	background-image: url(../img/martini.jpg);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
+.yoga-template .best-class-club .martinir-img {
+	background-image: url(../img/martinir.jpg);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
 .yoga-template .best-class-club .wip-img {
 	background-image: url(../img/wip.jpg);
     background-size: cover;
@@ -513,11 +541,26 @@ a {
     background-repeat: no-repeat;
 }
 
+.yoga-template .best-class-club .despe-img {
+	background-image: url(../img/despe.jpg);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
 
+.yoga-template .best-class-club .desper-img {
+	background-image: url(../img/desper.jpg);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
 
-
-
-
+.yoga-template .best-class-club .leffe-img {
+	background-image: url(../img/leffe.jpg);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
 
 
 
